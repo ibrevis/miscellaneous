@@ -1,0 +1,1 @@
+- PINNs example for 1D Elliptic PDE (Laplacian) using PyTorch
