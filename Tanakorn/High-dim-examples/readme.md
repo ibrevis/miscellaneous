@@ -1,1 +1,2 @@
-Hi
+- least squares training (function approximation) for high-dimensional functions using PyTorch
+- PINNs training for a 2D elliptic PDE using NeuralPDE in Julia
